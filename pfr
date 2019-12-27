@@ -1,0 +1,2 @@
+class HelloWorld { public static void main(String[] args){ System.out.println(«Hello World!»); } } - Читайте подробнее на FB.ru: https://fb.ru/article/324798/pervaya-programma-na-java---hello-world
+
